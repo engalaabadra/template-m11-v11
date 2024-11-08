@@ -1,0 +1,7 @@
+{
+    "Payment": true,
+    "Wallet":true,
+    "RequestWithdrawing":true,
+    "Movement":true
+
+}

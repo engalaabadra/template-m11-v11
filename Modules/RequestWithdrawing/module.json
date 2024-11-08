@@ -1,0 +1,13 @@
+{
+    "name": "RequestWithdrawing",
+    "alias": "RequestWithdrawing",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\RequestWithdrawing\\Providers\\RequestWithdrawingServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}

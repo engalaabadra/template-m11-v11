@@ -1,0 +1,13 @@
+{
+    "name": "Movement",
+    "alias": "Movement",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\Movement\\Providers\\MovementServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}
